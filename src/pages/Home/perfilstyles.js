@@ -9,6 +9,12 @@ export const Container = styled.div`
     position: -webkit-sticky;
     position: sticky;
     top: 12%;
+
+    @media (max-width: 600px) {
+    position: relative;
+    width: 375px;
+    margin-top: 100px;
+  }
 `
 
 export const Header = styled.div`

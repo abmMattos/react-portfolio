@@ -71,7 +71,7 @@ export default function Home() {
                     Sou um desenvolvedor apaixonado por tecnologia, buscando 
                     sempre aprimorar meu conhecimento e aprender cada vez mais.
                 </Paragraph>
-                <Section id="about" img={about} text="Sobre" />>
+                <Section id="about" img={about} text="Sobre" />
                 <SubTitle>
                     Conheça um pouco <br /><span>sobre mim</span>!
                 </SubTitle>
