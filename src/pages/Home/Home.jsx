@@ -76,11 +76,10 @@ export default function Home() {
                     Conheça um pouco <br /><span>sobre mim</span>!
                 </SubTitle>
                 <Paragraph>
-                    Minha jornada de desenvolvedor começou em agosto de 2022, quando ingressei na
-                    faculdade de Analise e Desenvolvimento de Sistemas. Porém antes mesmo eu já
-                    era fascinado sobre o poder que a tecnologia pode ter dentro de nossas vidas. 
-                    Como experiência, á realizei alguns projetos pessoais para estudo, e
-                    site para terceiros de forma profissional.
+                Minha jornada como desenvolvedor começou em agosto de 2022, quando ingressei na 
+                faculdade de Análise e Desenvolvimento de Sistemas. No entanto, antes disso, já era 
+                fascinado pelo poder que a tecnologia pode ter em nossas vidas. Como experiência, 
+                realizei alguns projetos pessoais para estudo e desenvolvi sites profissionais para terceiros.
                 </Paragraph>
                 <Section id="summary" img={suitcase} text="Resumo" />
                 <SubTitle>
